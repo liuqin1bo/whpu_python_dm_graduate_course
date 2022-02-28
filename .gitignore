@@ -1,8 +1,7 @@
-# IDEs
-.idea/
 
-# Hugo
-/resources/
+.idea/
+.DS_Store
 public/
 jsconfig.json
 node_modules/
+git

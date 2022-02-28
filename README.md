@@ -1,6 +1,6 @@
 ## 课程描述
 ### 1. 课前准备
-请提前使用个人邮箱注册一下kaggle.com 的帐号，登陆后，开始学习使用其 notebook 的使用，每个人可以免费获得每周至少有30多个小时时长的gpu 使用权 (telsa p100 16Gb) 。其中的conda python环境为python 3.7, 大家可以在notebook(.ipynb)中使用!conda list命令, 查看到已经安装好了许多第3方工具包如: numpy，pandas, scikit-learn, xgboost,  tensorflow, torch, keras。 我们课程的代码实践部分，尤其是深度学习部分，可以在上面完成。如果是非gpu使用的部分，大家亦可在自己的电脑上配置环境完成。作业中需要写代码的部分，要求提交ipynb格式的notebook，其它非代码部分，可手写，可以电子文档。
+请提前使用个人邮箱注册一下kaggle.com 的帐号，登陆后，开始学习其 notebook 的使用，每个人可以免费获得每周至少有30多个小时时长的gpu 使用权 (telsa p100 16Gb) 。其中的conda python环境为python 3.7, 大家可以在notebook(.ipynb)中使用!conda list命令, 查看到已经安装好了许多第3方工具包如: numpy，pandas, scikit-learn, xgboost,  tensorflow, torch, keras。 我们课程的代码实践部分，尤其是深度学习部分，可以在上面完成。如果是非gpu使用的部分，大家亦可在自己的电脑上配置环境完成。作业中需要写代码的部分，要求提交ipynb格式的notebook，其它非代码部分，可手写，可以电子文档。
 
 
 ### 2. 课程内容
@@ -16,4 +16,9 @@
 * 魏伟一, 张国治《Python数据挖掘与机器学习》
 * 我的手写笔记，
 * 以及其它可能中途引用的参考文献，书籍，官方指南或源码等。
+
+**部分资料已上传至目录 `./resourses／`**
+
+### X1. Useful links:
+* [List of data science cheat sheet with Python for Data Science and Machine Learning @ Kaggle](https://www.kaggle.com/getting-started/78118)
 
