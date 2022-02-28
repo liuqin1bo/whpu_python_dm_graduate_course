@@ -19,6 +19,12 @@
 
 **部分资料已上传至目录 `./resourses／`**
 
+#### 2.1 具体安排
+##### 第一堂课内容:
+* 快速回顾回归预测, 熟悉python 数据科学工具使用
+* 回顾向量矩阵函数偏导数(1阶, 2阶)运算
+* softmax 多分类算法推导, 简要介绍其spark代码
+* 多层神经网络反向传播一般形式推导: part1
 ### X1. Useful links:
 * [List of data science cheat sheet with Python for Data Science and Machine Learning @ Kaggle](https://www.kaggle.com/getting-started/78118)
 
