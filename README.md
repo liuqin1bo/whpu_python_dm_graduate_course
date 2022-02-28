@@ -1,47 +1,19 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+## 课程描述
+### 1. 课前准备
+请提前使用个人邮箱注册一下kaggle.com 的帐号，登陆后，开始学习使用其 notebook 的使用，每个人可以免费获得每周至少有30多个小时时长的gpu 使用权 (telsa p100 16Gb) 。其中的conda python环境为python 3.7, 大家可以在notebook(.ipynb)中使用!conda list命令, 查看到已经安装好了许多第3方工具包如: numpy，pandas, scikit-learn, xgboost,  tensorflow, torch, keras。 我们课程的代码实践部分，尤其是深度学习部分，可以在上面完成。如果是非gpu使用的部分，大家亦可在自己的电脑上配置环境完成。作业中需要写代码的部分，要求提交ipynb格式的notebook，其它非代码部分，可手写，可以电子文档。
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+### 2. 课程内容
+本课程主要讲解机器学习和深度学习原理与实践，暂不设置必须的参考教材，主要参考 
+* 吴恩达的《机器学习课程》，
+* 邹博《机器学习课件》，
+* 周志华的 《机器学习》，
+* 山下隆义的《图解深度学习》（中译），
+* 杉山将的《图解机器学习》（中译），
+* 陈天奇 关于xgboost 算法的文章，
+* N.D. Lewis 的《Deep Time Series Forecasting With Python》
+* 盛胜利，林海，李金洪《Python数据挖掘与机器学习实战》
+* 魏伟一, 张国治《Python数据挖掘与机器学习》
+* 我的手写笔记，
+* 以及其它可能中途引用的参考文献，书籍，官方指南或源码等。
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
-
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
-
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://wowchemy.com/creators/).
-
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
-
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli) 
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
-
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
-
-## Demo image credits
-
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
-
-## Latest news
-<!--START_SECTION:news-->
-* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.2.0&#x2F;)
-* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.1.0&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0&#x2F;)
-* [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0-beta.3&#x2F;)
-* [Version 5.0 Beta 2 (January 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0-beta.2&#x2F;)
-<!--END_SECTION:news-->
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
