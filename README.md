@@ -14,6 +14,7 @@
 * N.D. Lewis 的《Deep Time Series Forecasting With Python》
 * 盛胜利，林海，李金洪《Python数据挖掘与机器学习实战》
 * 魏伟一, 张国治《Python数据挖掘与机器学习》
+* [李宏毅2021/2022春机器学习课程_哔哩哔哩](https://www.bilibili.com/video/BV1Wv411h7kN?p=1)
 * 我的手写笔记，
 * 以及其它可能中途引用的参考文献，书籍，官方指南或源码等。
 
