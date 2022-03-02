@@ -21,11 +21,30 @@
 **部分资料已上传至目录 `./resourses／`**
 
 #### 2.1 具体安排
-##### 第一堂课内容:
+##### 第1堂课内容:
 * 快速回顾回归预测, 熟悉python 数据科学工具使用
 * 回顾向量矩阵函数偏导数(1阶, 2阶)运算
-* softmax 多分类算法推导, 简要介绍多分类回归的spark代码
-* 多层神经网络反向传播一般形式推导: part1
+* softmax 多分类算法推导, 
+##### 第2堂课内容:
+* 逻辑回归及softmax多分类回归概率推导
+* 神经网络基础-上
+##### 第3堂课内容:
+* 神经网络基础-下
+* 卷积神经网络-上
+##### 第4堂课内容:
+* 卷积神经网络-下
+* 深度学习的数学基础补充1
+##### 第5堂课内容:
+* 深度学习的数学基础补充2
+##### 第6堂课内容:
+* xgboost算法上
+##### 第7堂课内容:
+* xgboost算法中
+##### 第8堂课内容:
+* xgboost算法下
+##### 第8堂课内容:
+TBC
+
 ### X1. Useful links:
 * [List of data science cheat sheet with Python for Data Science and Machine Learning @ Kaggle](https://www.kaggle.com/getting-started/78118)
 
