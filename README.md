@@ -42,10 +42,8 @@
 * Ada-boost-上
 ##### 第8堂课内容:
 * Ada-boost-下
-* xgboost算法1
+* xgboost算法核心
 ##### 第9堂课内容:
-* xgboost算法2
-##### 第10堂课内容:
 TBC
 
 ### X1. Useful links:
