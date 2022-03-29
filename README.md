@@ -42,10 +42,21 @@
 * Ada-boost-上
 ##### 第8堂课内容:
 * Ada-boost-下
-* xgboost算法核心
 ##### 第9堂课内容:
-TBC
-
+* xgboost算法核心  
+**随机过程:**
+* generating functions
+* branching processes 1  
+参考: 
+##### 第10堂课内容:
+* branching processes 2
+##### 第11堂课内容:
+* branching processes 3
+* markov chains 1
+##### 第12堂课内容:
+* markov chains 2
+##### 第12堂课内容:
+* TBC
 ### X1. Useful links:
 * [List of data science cheat sheet with Python for Data Science and Machine Learning @ Kaggle](https://www.kaggle.com/getting-started/78118)
 
