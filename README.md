@@ -51,12 +51,34 @@
 ##### 第10堂课内容:
 * branching processes 2
 ##### 第11堂课内容:
+* 清明节放假
+##### 第12堂课内容:
 * branching processes 3
+* Русский язык（黑大）:
+  * Урок первый
+  * Урок второй
+  * Урок третий
+  * Урок четвёртый
+##### 第13堂课内容:
+* branching processes 4
+* Русский язык:
+  * Урок пятый
+  * Урок шестой
+##### 第14堂课内容:
 * markov chains 1
-##### 第12堂课内容:
+* Русский:
+  * Урок седьмой
+  * Урок восьмой
+##### 第15堂课内容:
 * markov chains 2
-##### 第12堂课内容:
-* TBC
+* Русский:
+  * Урок девятый
+  * Урок десятый
+##### 第16堂课内容:
+* markov chains 3
+* Русский язык:
+  * Урок одиннадцатый
+  * Урок двенадцатый
 ### X1. Useful links:
 * [List of data science cheat sheet with Python for Data Science and Machine Learning @ Kaggle](https://www.kaggle.com/getting-started/78118)
 
